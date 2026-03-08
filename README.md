@@ -44,6 +44,20 @@ Run Container Anywhere
 
 ---
 
+
+GitHub Actions CI/CD pipeline
+
+<img width="2746" height="1042" alt="image" src="https://github.com/user-attachments/assets/c92a14db-5d03-4097-bb0e-60cdc6efa247" />
+
+
+Automated Docker image build and push
+
+
+<img width="3446" height="2154" alt="image" src="https://github.com/user-attachments/assets/da1134bf-1bcb-4541-b3ec-1f96688bb617" />
+
+
+
+
 # 🔄 CI/CD Flow Diagram
 
 ```
